@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "S3": {
+      "commandName": "Project",
+      "commandLineArgs": "databrick list"
+    }
+  }
+}
